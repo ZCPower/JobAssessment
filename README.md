@@ -11,7 +11,7 @@ As a bonus, fade each rectangle out (one at a time with a delay) using Javascrip
 Again, this is simply a test of your HTML/CSS/JS skills. Please take as long as you’d like on it, and let us know if you have any questions or concerns.
 
 ## Viewing Final Product
-* In an empty directory on the command line, 
+* In an empty directory on the command line: <br/> 
  `
 $ git clone github.com/zcpower/JobAssessment
  `
