@@ -13,6 +13,6 @@ Again, this is simply a test of your HTML/CSS/JS skills. Please take as long as 
 ## Viewing Final Product
 * In an empty directory on the command line: <br/> 
  `
-$ git clone github.com/zcpower/JobAssessment
+$ git clone git@github.com:ZCPower/JobAssessment.git
  `
 * In VS Code, click Go Live to view the program on your default browser.
